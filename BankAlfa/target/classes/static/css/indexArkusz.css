@@ -1,0 +1,27 @@
+
+body
+{
+    background-color:white;
+}
+
+#container
+{
+    background-color:grey;
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+    text-size:40px;
+    text-align:center;
+}
+
+#button
+{
+    background-color:black;
+    color:white;
+    width:90px;
+    height:35px;
+    text-size:25px;
+    border-style:solid;
+    
+}
